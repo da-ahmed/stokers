@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="493.0" prefWidth="1190.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.ahm.stockers.HomeController">
+   <children>
+      <Button layoutX="523.0" layoutY="208.0" mnemonicParsing="false" prefHeight="39.0" prefWidth="145.0" text="gerer Fourniseur" />
+      <Button fx:id="articlecrud" layoutX="884.0" layoutY="210.0" mnemonicParsing="false" prefHeight="36.0" prefWidth="145.0" text="gerer Article" />
+      <Button layoutX="129.0" layoutY="209.0" mnemonicParsing="false" prefHeight="39.0" prefWidth="145.0" text="mon comte" />
+   </children>
+</AnchorPane>
